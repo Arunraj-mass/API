@@ -2,5 +2,6 @@
 {
     public class FileName
     {
+        new check
     }
 }
